@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔐 Current Focus:
+- Web security fundamentals (OWASP concepts)
+- PortSwigger Web Security Academy labs
+- TryHackMe & Hack The Box practical challenges
+- Understanding attack logic, not just solving labs
+
+
+📂 What you’ll find here:
+- Detailed lab writeups explaining vulnerabilities and exploitation logic
+- Notes written in a beginner-friendly way (including mistakes I made)
+- Cybersecurity learning projects as I progress
+
+
+🔗 Profiles:
+- TryHackMe: https://tryhackme.com/p/theknight19
+- Hack The Box: https://app.hackthebox.com/profile/2366829
+- LinkedIn: https://linkedin.com/in/darshan-kalburgi-53817a27a
+
+
+🧠 Learning philosophy: execution first, documentation always.
