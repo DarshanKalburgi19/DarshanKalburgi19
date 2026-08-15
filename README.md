@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 📂 What you’ll find here:
 - Detailed lab writeups explaining vulnerabilities and exploitation logic
-- Notes written in a beginner-friendly way (including mistakes I made)
+- Notes written in a friendly way (including mistakes I made)
 - Cybersecurity learning projects as I progress
 
 
