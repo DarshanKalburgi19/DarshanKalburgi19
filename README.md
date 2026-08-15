@@ -1,36 +1,49 @@
-## Hello , Iam Darshan 👋
+# Hey, I'm Darshan 👋
 
-<!--
-**DarshanKalburgi19/DarshanKalburgi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity-focused IT student who likes to learn by **building things, breaking things, and figuring out why they work.**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🔐 Current Focus:
-- Web security fundamentals (OWASP concepts)
+🔐 **Currently exploring**
+- Web security & OWASP concepts
 - PortSwigger Web Security Academy labs
-- TryHackMe & Hack The Box practical challenges
-- Understanding attack logic, not just solving labs
+- TryHackMe & Hack The Box challenges
+- Digital forensics and incident investigation
+- Network analysis and security tooling
+- Python for cybersecurity automation
 
+🛠️ **What I'm building**
+- Digital forensics tools for evidence handling, hashing, analysis and reporting
+- Network traffic analysis tools using Python and Scapy
+- Cybersecurity projects inspired by real investigation and security workflows
+- Small experiments to understand security concepts beyond just completing labs
 
-📂 What you’ll find here:
-- Detailed lab writeups explaining vulnerabilities and exploitation logic
-- Notes written in a friendly way (including mistakes I made)
-- Cybersecurity learning projects as I progress
+📚 **How I learn**
+I prefer understanding the **logic behind an attack or defense** rather than just following a walkthrough.
 
+You'll find:
+- Lab writeups and technical notes
+- Things I broke while learning
+- Projects and experiments
+- What worked, what didn't, and why
+- Lessons from actually implementing things
 
-🔗 Profiles:
-- TryHackMe: https://tryhackme.com/p/theknight19
-- Hack The Box: https://app.hackthebox.com/profile/2366829
-- LinkedIn: https://linkedin.com/in/darshan-kalburgi-53817a27a
+🎯 **Current mindset**
 
+> Learn it → Build it → Break it → Understand it → Document it
 
-🧠 Learning philosophy: execution first, documentation always.
+🔗 **Find me here**
+
+- TryHackMe — https://tryhackme.com/p/theknight19
+- Hack The Box — https://app.hackthebox.com/profile/2366829
+- LinkedIn — https://linkedin.com/in/darshan-kalburgi-53817a27a
+
+---
+
+### A little more about me
+
+I'm still early in my cybersecurity journey, so I don't pretend to know everything.
+
+What I care about is **getting better at thinking like an attacker, understanding how systems actually behave, and turning that understanding into something I can build or demonstrate.**
+
+If something interests me, I usually end up making a project around it.
+
+Thanks for stopping by. :)
